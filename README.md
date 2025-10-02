@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o André Calderon
 
-<!--
-**Devcalderon/Devcalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- Profissional em transição de carreira para **Cybersecurity** e **Cloud Security**  
+- Experiência prévia em **Análise de Sistemas**, **TI** e **cuidador de idosos**  
+- Atualmente estudando o **Google Cybersecurity Certificate**
 
-Here are some ideas to get you started:
+## 🎯 Objetivos
+- Evoluir do nível iniciante até intermediário em segurança cibernética  
+- Construir portfólio com exercícios e projetos reais  
+- Trabalhar remotamente ou no exterior na área de segurança em nuvem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em destaque
+- **Exercícios do curso da Google** (em progresso)  
+- **Laboratórios e testes de segurança** (em breve)
+
+## 🌐 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-c-5031b688/)
