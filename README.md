@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 - Profissional em transição de carreira para **Cybersecurity** e **Cloud Security**  
-- Experiência prévia em **Análise de Sistemas**, **TI** e **cuidador de idosos**  
+- Experiência prévia em **Análise de Sistemas**, **TI**   
 - Atualmente estudando o **Google Cybersecurity Certificate**
 
 ## 🎯 Objetivos
