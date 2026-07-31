@@ -8,7 +8,7 @@
 ## 🎯 Objetivos
 - Evoluir do nível iniciante até intermediário em segurança cibernética  
 - Construir portfólio com exercícios e projetos reais  
-- Trabalhar remotamente ou no exterior na área de segurança em nuvem
+- Trabalhar remotamente  na área de segurança em nuvem
 
 ## 📂 Projetos em destaque
 - **Exercícios do curso da Google** (em progresso)  
